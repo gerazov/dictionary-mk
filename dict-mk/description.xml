@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006"
+  xmlns:d="http://openoffice.org/extensions/description/2006"
+  xmlns:l="http://libreoffice.org/extensions/description/2011"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+            <version value="2005.11.26" />
+    <identifier value="org.openoffice.mk.dictionaries.mk" />
+    <display-name>
+        <name lang="en">Macedonian Spellchecker Dictionary</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <l:LibreOffice-minimal-version value="3.5" d:name="LibreOffice 3.5" />
+    </dependencies>
+    <registration>
+        <simple-license  accept-by="admin" default-license-id="mk-MK" suppress-on-update="false" >
+            <license-text xlink:href="GPL2.txt" lang="en-US" license-id="mk-MK" />
+        </simple-license>
+    </registration>
+    <icon>
+        <default xlink:href="MK.png" />
+    </icon>
+</description>
